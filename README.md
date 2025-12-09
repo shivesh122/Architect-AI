@@ -12,9 +12,9 @@ This project is an AI-powered module that acts as an intelligent website builder
 
 ## 📸 Demo
 
-![Project Demo](https://github.com/shivesh122/Architect-AI/Screenshot.png)
+<img src="./screenshot.png" alt="Description" width="600" />
 
-> *Example Prompt: "Create a landing page for a coffee shop with a dark theme, a hero section with a 'Order Now' button, and a grid of 3 popular coffee blends."*
+> *Example Prompt: "Build a scientific calculator with a dark, futuristic Cyberpunk theme. The background should be pure black (#000000). The calculator body should be a dark gray card with a neon green glowing border."*
 
 ---
 
