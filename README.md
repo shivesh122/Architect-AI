@@ -12,7 +12,7 @@ This project is an AI-powered module that acts as an intelligent website builder
 
 ## 📸 Demo
 
-<img src="./screenshot.png" alt="Description" width="600" />
+<img src="../screenshot.png" alt="Description" />
 
 > *Example Prompt: "Build a scientific calculator with a dark, futuristic Cyberpunk theme. The background should be pure black (#000000). The calculator body should be a dark gray card with a neon green glowing border."*
 
